@@ -177,6 +177,7 @@ a {
 		justify-content: space-between;
 		margin: 10px 0 63px 0;
 		max-width: 1024px;
+		padding: 0 8px;
 }
 .footer a {
 		opacity: 0.55;
