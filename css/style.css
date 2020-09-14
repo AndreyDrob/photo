@@ -179,6 +179,9 @@ a {
 		max-width: 1024px;
 		padding: 0 8px;
 }
+.footer div{
+		display: inline-block;
+}
 .footer a {
 		opacity: 0.55;
 		color: #636363;
@@ -188,9 +191,7 @@ a {
 		line-height: 23px;
 		display: inline-block;
 }
-.footer div{
-		display: inline-block;
-}
+
 
 .footer_b {
 		background-color: #484242;
