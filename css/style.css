@@ -58,6 +58,7 @@ a {
 }
 
 .header {
+		min-width: 100%;
 		background-image: url(../img/bg.png);
 		background-repeat: round;
 		height: 484px;
@@ -179,7 +180,7 @@ a {
 		max-width: 1024px;
 		padding: 0 8px;
 }
-.footer div{
+.footer div {
 		display: inline-block;
 }
 .footer a {
@@ -191,7 +192,6 @@ a {
 		line-height: 23px;
 		display: inline-block;
 }
-
 
 .footer_b {
 		background-color: #484242;
