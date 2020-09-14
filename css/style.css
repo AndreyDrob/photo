@@ -188,6 +188,9 @@ a {
 		line-height: 23px;
 		display: inline-block;
 }
+footer div{
+		display: inline-block;
+}
 
 .footer_b {
 		background-color: #484242;
